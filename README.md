@@ -13,7 +13,7 @@ Este proyecto es una práctica que refuerza conocimientos sobre la combinación 
 
 ![Movil-size](./assets/img-movil.jpeg "Movil-size")
 
-###Recursos
+### Recursos
 
 * Fuente en [Google Fonts](https://fonts.google.com/)
 * Diseño en [Figma](https://www.figma.com/)
